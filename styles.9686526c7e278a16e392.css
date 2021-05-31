@@ -1,0 +1,1 @@
+.app{display:flex;min-height:100vh;min-width:100vw;flex-direction:column}.page-link,.page-link:hover{color:var(--success)}.page-item.active .page-link{background-color:var(--success);border-color:var(--success)}body{overflow:hidden}
